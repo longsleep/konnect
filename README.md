@@ -1,4 +1,6 @@
 # Konnect
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flongsleep%2Fkonnect.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Flongsleep%2Fkonnect?ref=badge_shield)
+
 
 Kopano Konnect implements an [OpenID provider](http://openid.net/specs/openid-connect-core-1_0.html)
 (OP) with integrated web login and consent forms.
@@ -235,3 +237,7 @@ make test
 As Konnect includes a web application (identifier), a `Caddyfile.dev` file is
 provided which exposes the identifier's web application directly via a
 webpack dev server.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flongsleep%2Fkonnect.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Flongsleep%2Fkonnect?ref=badge_large)
